@@ -21,6 +21,8 @@ from the community.
 
 See more at `pydstool.sourceforge.net <http://pydstool.sourceforge.net>`__.
 
+More documentation <http://www2.gsu.edu/~matrhc/PyDSTool.htm>
+
 --------------
 
 Requirements
