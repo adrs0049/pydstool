@@ -110,7 +110,7 @@ setup(
     keywords="dynamical systems, bioinformatics, modeling, bifurcation analysis",
     url="http://pydstool.sourceforge.net/",
     download_url="https://github.com/robclewley/pydstool/tarball/v%s" % __version__,
-    include_package_data=True,
+    include_package_data=False,
     platforms=["any"],
     package_data={
         '': ['*.txt', '*.rst'],
